@@ -1,6 +1,7 @@
 # weather_app_2
 
-A new Flutter application.
+Build weather app
+Note: Create an account at https://openweathermap.org/ then remove the value of the apiKey from XXXXXXXXX to your key in the main.dart
 
 ## Getting Started
 
